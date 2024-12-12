@@ -1,3 +1,8 @@
+NAME : JOTHIMANI P
+
+REG NO: 24900871
+
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -33,16 +38,16 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+![image](https://github.com/user-attachments/assets/8182c310-2aae-4b1c-b10a-f4999cdb430a)
 
 
-**RTL realization**
 
-**Output:**
+**RTL realization output**
 
-**RTL**
+![image](https://github.com/user-attachments/assets/de3d9700-698a-4873-bed6-47ec5c992a70)
+
+**Truthtable:**
+
 
 **Timing Diagram**
 
