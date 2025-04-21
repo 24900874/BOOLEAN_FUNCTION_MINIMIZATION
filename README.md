@@ -1,6 +1,6 @@
-NAME : JOTHIMANI P
+NAME :Geethapriyan A S
 
-REG NO: 24900871
+REG NO: 24900874
 
 
 # EX:2 IMPLEMENTATION OF BOOLEAN FUNCTION 
@@ -61,4 +61,3 @@ Hardware – PCs, Cyclone II , USB flasher
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
